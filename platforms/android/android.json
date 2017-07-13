@@ -131,35 +131,35 @@
     },
     "installed_plugins": {
         "cordova-custom-config": {
-            "PACKAGE_NAME": "com.designbest.arredamentibianchi"
+            "PACKAGE_NAME": "com.abarredamentibianchi.arredamentibianchi"
         },
         "cordova-plugin-device": {
-            "PACKAGE_NAME": "com.designbest.arredamentibianchi"
+            "PACKAGE_NAME": "com.abarredamentibianchi.arredamentibianchi"
         },
         "cordova-plugin-dialogs": {
-            "PACKAGE_NAME": "com.designbest.arredamentibianchi"
+            "PACKAGE_NAME": "com.abarredamentibianchi.arredamentibianchi"
         },
         "cordova-plugin-inappbrowser": {
-            "PACKAGE_NAME": "com.designbest.arredamentibianchi"
+            "PACKAGE_NAME": "com.abarredamentibianchi.arredamentibianchi"
         },
         "cordova-plugin-network-information": {
-            "PACKAGE_NAME": "com.designbest.arredamentibianchi"
+            "PACKAGE_NAME": "com.abarredamentibianchi.arredamentibianchi"
         },
         "cordova-plugin-statusbar": {
-            "PACKAGE_NAME": "com.designbest.arredamentibianchi"
+            "PACKAGE_NAME": "com.abarredamentibianchi.arredamentibianchi"
         },
         "cordova-plugin-whitelist": {
-            "PACKAGE_NAME": "com.designbest.arredamentibianchi"
+            "PACKAGE_NAME": "com.abarredamentibianchi.arredamentibianchi"
         },
         "es6-promise-plugin": {
-            "PACKAGE_NAME": "com.designbest.arredamentibianchi"
+            "PACKAGE_NAME": "com.abarredamentibianchi.arredamentibianchi"
         },
         "cordova-plugin-x-socialsharing": {
-            "PACKAGE_NAME": "com.designbest.arredamentibianchi"
+            "PACKAGE_NAME": "com.abarredamentibianchi.arredamentibianchi"
         },
         "phonegap-plugin-push": {
             "SENDER_ID": "xxxxx",
-            "PACKAGE_NAME": "com.designbest.arredamentibianchi"
+            "PACKAGE_NAME": "com.abarredamentibianchi.arredamentibianchi"
         }
     },
     "dependent_plugins": {},

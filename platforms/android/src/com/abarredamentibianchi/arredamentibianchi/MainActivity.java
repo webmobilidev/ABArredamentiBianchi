@@ -17,7 +17,7 @@
        under the License.
  */
 
-package com.designbest.arredamentibianchi;
+package com.abarredamentibianchi.arredamentibianchi;
 
 import android.os.Bundle;
 import org.apache.cordova.*;
